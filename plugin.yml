@@ -5,6 +5,12 @@ author: DUFC_Liam
 description: The core for the prison server!
 
 commands:
-     test:
+     announce:
+         usage: /<command> <text>
+         description: AYAYAYAYA
+     clearchat:
          usage: /<command>
-         description: A test command!
+         description: AYAYAYAYA
+     mutechat:
+         usage: /<command>
+         description: AYAYAYAYA
