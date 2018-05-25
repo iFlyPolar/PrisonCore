@@ -1,0 +1,10 @@
+name: PrisonCore
+version: 1.0
+main: me.prisoncore.Main
+author: DUFC_Liam
+description: The core for the prison server!
+
+commands:
+     test:
+         usage: /<command>
+         description: A test command!
