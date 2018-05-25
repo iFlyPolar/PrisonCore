@@ -17,7 +17,7 @@ public class mutechat implements CommandExecutor {
     public mutechat(Main instance) {
     	this.plugin = instance;
     }
-    public static boolean blocked = false;
+    public boolean blocked = false;
     
     @EventHandler(priority=EventPriority.HIGHEST)
     public void onPlayerChat(AsyncPlayerChatEvent e) {
