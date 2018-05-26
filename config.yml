@@ -1,28 +1,28 @@
 ranks:
-	owner:
-		prefix:
-		permissions:
-			- prisoncore.*
-	manager:
-		prefix:
-		permissions:
-			- prisoncore.manager
-	administrator:
-		prefix:
-		permissions:
-			- prisoncore.administrator
-	moderator:
-		prefix:
-		permissions:
-			- prisoncore.moderator
-	helper:
-		prefix:
-		permissions:
-			- prisoncore.helper
+        owner:
+            prefix:
+            permissions:
+                - prisoncore.*
+        manager:
+            prefix:
+                permissions:
+                - prisoncore.manager
+        administrator:
+            prefix:
+            permissions:
+                - prisoncore.administrator
+        moderator:
+            prefix:
+            permissions:
+                - prisoncore.moderator
+        helper:
+            prefix:
+            permissions:
+                - prisoncore.helper
 
 userranks:
-	118eeda2-683f-45b8-a826-bd7e26398ab3:
-		rank: owner
-		suffix: &7[&6N&eO&6O&eB&7]
-		permissions:
-			- prisoncore.vip
+        118eeda2-683f-45b8-a826-bd7e26398ab3:
+            rank: owner
+            suffix: &7[&6N&eO&6O&eB&7]
+            permissions:
+                - prisoncore.vip
