@@ -2,18 +2,18 @@ name: PrisonCore
 version: 1.0
 main: me.prisoncore.Main
 author: DUFC_Liam
-description: The core for the prison server!
+description: Fully Custom PrisonCore.
 
 commands:
      announce:
          usage: /<command> <text>
-         description: AYAYAYAYA
+         description: This will announce a message to everybody.
      clearchat:
          usage: /<command>
-         description: AYAYAYAYA
+         description: This will clear chat for all non-staff.
      mutechat:
          usage: /<command>
-         description: AYAYAYAYA
+         description: This will mute chat for all non-staff.
      vanish:
          usage: /<command>
-         description: AYAYAYAYA
+         description: This will hide you from other players.
